@@ -1,2 +1,2 @@
-# vimrc
+# Dotfiles
 vimrc for ruby
