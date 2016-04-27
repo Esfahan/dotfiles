@@ -4,3 +4,5 @@ autocmd FileType * setlocal formatoptions-=ro
 set ambiwidth=double
 "Converting tabs to 2spaces
 set tabstop=2 shiftwidth=2 expandtab
+
+highlight Comment ctermfg=lightblue
